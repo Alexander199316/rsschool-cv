@@ -1,2 +1,3 @@
-init: start youtube-task
-feat: add basic page layout
+Alexander Khruschov
+Belarus Mogilev
+Beatles1993@mail.ru
